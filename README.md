@@ -1,2 +1,3 @@
-# prime-factors-tdd
-tdd kata for calculating the prime factors of an integer
+# Prime Factors TDD
+TDD Kata for calculating the prime factors of an integer
+
