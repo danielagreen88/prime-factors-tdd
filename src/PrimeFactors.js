@@ -1,5 +1,3 @@
 export class PrimeFactors {
-  calc(n) {
-    return [];
-  }
+  calc(n) {}
 }
